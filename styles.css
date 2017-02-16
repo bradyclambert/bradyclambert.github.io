@@ -2,10 +2,11 @@ body { background: orange;
 color: green;
 font-size: 14pt; }
 body { font-family: 'Barrio', cursive;
-text-align: center ;}
+text-align: center;}
 h1 { font-size: 300%;
 color: navy; }
 h2 { color: red; }
 a { color: green;
 text-decoration: block }
 a:hover { color: red }
+UL { list-style-type: none;
