@@ -7,6 +7,6 @@ h1 { font-size: 300%;
 color: navy; }
 h2 { color: red; }
 a { color: green;
-text-decoration: inline-block; }
 a:hover { color: red; }
-UL { list-style-type: none; }
+UL { list-style-type: none;
+text-decoration: inline-block; }
