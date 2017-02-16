@@ -6,5 +6,5 @@ h1 { font-size: 300%;
 color: navy; }
 h2 { color: red; }
 a { color: green;
-text-decoration: none }
+text-decoration: inline-block }
 a:hover { color: red }
