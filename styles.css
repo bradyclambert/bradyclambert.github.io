@@ -1,7 +1,8 @@
 body { background: orange;
 color: green;
 font-size: 14pt; }
-body { font-family: 'Barrio', cursive; }
+body { font-family: 'Barrio', cursive;
+text-align: center ;}
 h1 { font-size: 300%;
 color: navy; }
 h2 { color: red; }
