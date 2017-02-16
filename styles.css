@@ -1,0 +1,11 @@
+body { background: orange;
+color: green;
+font-size: 14pt; }
+body { font-family: 'Barrio', cursive; }
+h1 { font-size: 300%;
+color: navy; }
+h2 { color: red; }
+li { display: inline-block; }
+a { color: green;
+text-decoration: none }
+a:hover { color: red }
