@@ -1,6 +1,6 @@
 body { background-image: url("outerspace.jpg");
 background-size: 1350px 3600px;
-background-repeat: no-repeat;
+background-repeat: stretch;
 color:black;
 font-size: 14pt; }
 body { font-family: 'Barrio', cursive;
