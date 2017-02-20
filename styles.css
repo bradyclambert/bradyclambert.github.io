@@ -1,4 +1,5 @@
 body { background-image: url("outerspace.jpg") ;
+background-size: cover;
 background-attachment: fixed;
 color:white;
 font-size: 14pt; }
