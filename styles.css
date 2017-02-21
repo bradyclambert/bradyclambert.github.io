@@ -5,6 +5,12 @@ color:white;
 font-size: 14pt; }
 body { font-family: 'Fjalla One', sans-serif;
 text-align: center; }
+div {
+  border-style: solid;
+  border-color: orange;
+  background: grey(76, 175, 80, 0.3)
+  border-width: 5px;
+}
 h1 { font-size: 300%;
 color: orange; }
 h2 { color: silver; }
